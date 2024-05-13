@@ -1,16 +1,16 @@
-# bgs-dm-meshdp-srv - Data Mesh Data Product
+# osc-dm-meshdp-srv - Data Mesh Data Product
 
-bgs-dm-meshdp-srv is the execution environment for Broda Group
+osc-dm-meshdp-srv is the execution environment for Broda Group
 Software's Ecosystem Platform's data products, and is responsible for starting all
 components in a Docker Compose run-time environment.
 
 Full documentation is available in in the
-[bgs-dm-mesh-doc](https://github.com/brodagroupsoftware/bgs-dm-mesh-doc)
+[osc-dm-mesh-doc](https://github.com/brodagroupsoftware/osc-dm-mesh-doc)
 repo.
 
 This application interacts with other applications. You can run
 the full set of applications by following instructions in the
-[bgs-dm-mesh-doc](https://github.com/brodagroupsoftware/bgs-dm-mesh-doc)
+[osc-dm-mesh-doc](https://github.com/brodagroupsoftware/osc-dm-mesh-doc)
 repo.
 
 The remaining sections explain how to Dockerize the application

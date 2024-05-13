@@ -48,7 +48,7 @@ if [ -z "$2" ]; then
 fi
 export CONFIG_NAME="$2"
 
-export IMAGE_NAME="bgs-dm-product-srv"
+export IMAGE_NAME="osc-dm-product-srv"
 export HOSTNAME="$IMAGE_NAME-$INSTANCE"
 
 BASE_PORT=24000
